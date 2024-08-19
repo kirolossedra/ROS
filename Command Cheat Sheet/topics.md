@@ -24,3 +24,9 @@ ros2 topic echo /topic_name
   ```
   ros2 run packageName NodeName --ros-args -r oldTopicName:=newTopicName
 ```
+
+
+### 5. Example on creating a publisher on the run 
+  ```
+  ros2 topic pub -r 10 /topic_name example_interfaces/msg/String "{data: 'hello from terminal'}"
+```
