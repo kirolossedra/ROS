@@ -10,3 +10,16 @@ sudo apt install ros-distroName-turtlesim
 ```
 ros2 run turtlesim turtlesim_node
 ```
+
+### 3. To run a customly named turtle sim node 
+
+```
+ros2 run turtlesim turtlesim_node
+```
+
+
+### 4. To be able to control the turtle using keyboard 
+
+```
+ros2 run turtlesim turtle_teleop_key
+```
