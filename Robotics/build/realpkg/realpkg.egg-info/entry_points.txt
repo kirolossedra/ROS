@@ -1,4 +1,5 @@
 [console_scripts]
 Node_1 = realpkg.testnode:main
+Node_Server = realpkg.testservice:main
 Node_publisher = realpkg.testpublisher:main
 Node_subscriber = realpkg.testsubscriber:main

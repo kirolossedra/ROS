@@ -11,6 +11,7 @@ setup.py
 realpkg/__init__.py
 realpkg/testnode.py
 realpkg/testpublisher.py
+realpkg/testservice.py
 realpkg/testsubscriber.py
 resource/realpkg
 test/test_copyright.py

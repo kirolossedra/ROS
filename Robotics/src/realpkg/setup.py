@@ -23,6 +23,7 @@ setup(
             "Node_1 =  realpkg.testnode:main"
             ,"Node_publisher = realpkg.testpublisher:main"
             ,"Node_subscriber= realpkg.testsubscriber:main"
+            ,"Node_Server = realpkg.testservice:main"
             
             
         ],
