@@ -1,0 +1,5 @@
+  File "/home/kiro/Robotics/install/realpkg/lib/python3.12/site-packages/realpkg/testnode.py", line 15
+    self.get_logger().info("Call #"  str(self.counter_))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+
