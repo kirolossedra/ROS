@@ -14,7 +14,7 @@ ros2 run turtlesim turtlesim_node
 ### 3. To run a customly named turtle sim node 
 
 ```
-ros2 run turtlesim turtlesim_node
+ros2 run turtlesim turtlesim_node --ros-args __node:=custom_name
 ```
 
 
