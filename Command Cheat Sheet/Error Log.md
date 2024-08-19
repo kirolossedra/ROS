@@ -1,6 +1,6 @@
 ### 1- This error happens when comma is forgotten in defining the node function main in settings file 
 
-` Traceback (most recent call last):.6s]
+`Traceback (most recent call last):.6s]
   File "<string>", line 1, in <module>
   File "/usr/lib/python3/dist-packages/setuptools/_distutils/core.py", line 277, in run_setup
     raise RuntimeError(
