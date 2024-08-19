@@ -3,7 +3,7 @@
 ```
 colcon build --packages-select package_name 
 ```
-### 1. to rename a node
+### 2. to rename a node
 
 
   ```
