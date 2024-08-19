@@ -19,6 +19,6 @@ ros2 topic list
 ros2 topic echo /topic_name
 
 ``` 
+### 4. To rename a topic at runtime Please Note: You have to change its view in the subscriber as well 
 
-
-  ros2 run packageName NodeName --ros-args -r oldTopicName:=newTopicName
+  ```ros2 run packageName NodeName --ros-args -r oldTopicName:=newTopicName```
