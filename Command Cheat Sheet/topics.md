@@ -19,4 +19,6 @@ ros2 topic list
 ros2 topic echo /topic_name
 
 ``` 
-  
+
+
+  ros2 run packageName NodeName --ros-args -r oldTopicName:=newTopicName
