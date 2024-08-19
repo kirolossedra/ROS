@@ -11,5 +11,12 @@ ros2 interface show example_interfaces/msg/String
 ``` 
 ros2 topic list
 
+```
+
+### 3. To know the data comming from a certain topic
+
+``` 
+ros2 topic echo /topic_name
+
 ``` 
   
