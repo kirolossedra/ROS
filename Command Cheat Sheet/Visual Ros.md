@@ -23,3 +23,16 @@ ros2 run turtlesim turtlesim_node --ros-args __node:=custom_name
 ```
 ros2 run turtlesim turtle_teleop_key
 ```
+
+
+### 5. To be access a gui with a plenty of tools
+
+```
+rqt
+```
+
+### 6. To be access only graph from rqt
+
+```
+rqt_graph
+```
