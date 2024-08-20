@@ -1,0 +1,27 @@
+[5.029s] Invoking command in '/home/kiro/Robotics/src/realpkg': PYTHONPATH=/home/kiro/Robotics/build/realpkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kiro/Robotics/install/realpkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/realpkg build --build-base /home/kiro/Robotics/build/realpkg/build install --record /home/kiro/Robotics/build/realpkg/install.log --single-version-externally-managed install_data
+[6.516s] running egg_info
+[6.597s] writing ../../build/realpkg/realpkg.egg-info/PKG-INFO
+[6.598s] writing dependency_links to ../../build/realpkg/realpkg.egg-info/dependency_links.txt
+[6.600s] writing entry points to ../../build/realpkg/realpkg.egg-info/entry_points.txt
+[6.600s] writing requirements to ../../build/realpkg/realpkg.egg-info/requires.txt
+[6.600s] writing top-level names to ../../build/realpkg/realpkg.egg-info/top_level.txt
+[6.805s] reading manifest file '../../build/realpkg/realpkg.egg-info/SOURCES.txt'
+[6.808s] writing manifest file '../../build/realpkg/realpkg.egg-info/SOURCES.txt'
+[6.810s] running build
+[6.811s] running build_py
+[6.812s] copying realpkg/testclient.py -> /home/kiro/Robotics/build/realpkg/build/lib/realpkg
+[6.814s] running install
+[6.829s] running install_lib
+[6.924s] copying /home/kiro/Robotics/build/realpkg/build/lib/realpkg/testclient.py -> /home/kiro/Robotics/install/realpkg/lib/python3.12/site-packages/realpkg
+[6.932s] byte-compiling /home/kiro/Robotics/install/realpkg/lib/python3.12/site-packages/realpkg/testclient.py to testclient.cpython-312.pyc
+[6.936s] running install_data
+[6.936s] running install_egg_info
+[7.078s] removing '/home/kiro/Robotics/install/realpkg/lib/python3.12/site-packages/realpkg-0.0.0-py3.12.egg-info' (and everything under it)
+[7.087s] Copying ../../build/realpkg/realpkg.egg-info to /home/kiro/Robotics/install/realpkg/lib/python3.12/site-packages/realpkg-0.0.0-py3.12.egg-info
+[7.099s] running install_scripts
+[7.749s] Installing Node_1 script to /home/kiro/Robotics/install/realpkg/lib/realpkg
+[7.750s] Installing Node_Server script to /home/kiro/Robotics/install/realpkg/lib/realpkg
+[7.752s] Installing Node_publisher script to /home/kiro/Robotics/install/realpkg/lib/realpkg
+[7.753s] Installing Node_subscriber script to /home/kiro/Robotics/install/realpkg/lib/realpkg
+[7.753s] writing list of installed files to '/home/kiro/Robotics/build/realpkg/install.log'
+[7.833s] Invoked command in '/home/kiro/Robotics/src/realpkg' returned '0': PYTHONPATH=/home/kiro/Robotics/build/realpkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kiro/Robotics/install/realpkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/realpkg build --build-base /home/kiro/Robotics/build/realpkg/build install --record /home/kiro/Robotics/build/realpkg/install.log --single-version-externally-managed install_data

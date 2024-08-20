@@ -24,6 +24,7 @@ setup(
             ,"Node_publisher = realpkg.testpublisher:main"
             ,"Node_subscriber= realpkg.testsubscriber:main"
             ,"Node_Server = realpkg.testservice:main"
+            ,"Node_Client = realpkg.testclient:main"
             
             
         ],

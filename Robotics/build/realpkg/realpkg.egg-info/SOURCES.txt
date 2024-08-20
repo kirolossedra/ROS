@@ -9,6 +9,7 @@ setup.py
 ../../build/realpkg/realpkg.egg-info/top_level.txt
 ../../build/realpkg/realpkg.egg-info/zip-safe
 realpkg/__init__.py
+realpkg/testclient.py
 realpkg/testnode.py
 realpkg/testpublisher.py
 realpkg/testservice.py
