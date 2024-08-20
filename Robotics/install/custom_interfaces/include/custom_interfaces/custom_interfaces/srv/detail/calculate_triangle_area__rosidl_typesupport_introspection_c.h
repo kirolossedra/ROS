@@ -1,0 +1,1 @@
+/home/kiro/Robotics/build/custom_interfaces/rosidl_typesupport_introspection_c/custom_interfaces/srv/detail/calculate_triangle_area__rosidl_typesupport_introspection_c.h

@@ -1,0 +1,17 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/kiro_custom_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/kiro_custom_interfaces/msg/detail/sensor_state__type_support.cpp.o"
+  "CMakeFiles/kiro_custom_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/kiro_custom_interfaces/msg/detail/sensor_state__type_support.cpp.o.d"
+  "CMakeFiles/kiro_custom_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/kiro_custom_interfaces/srv/detail/calculate_triangle_area__type_support.cpp.o"
+  "CMakeFiles/kiro_custom_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/kiro_custom_interfaces/srv/detail/calculate_triangle_area__type_support.cpp.o.d"
+  "libkiro_custom_interfaces__rosidl_typesupport_introspection_cpp.pdb"
+  "libkiro_custom_interfaces__rosidl_typesupport_introspection_cpp.so"
+  "rosidl_typesupport_introspection_cpp/kiro_custom_interfaces/msg/detail/sensor_state__rosidl_typesupport_introspection_cpp.hpp"
+  "rosidl_typesupport_introspection_cpp/kiro_custom_interfaces/msg/detail/sensor_state__type_support.cpp"
+  "rosidl_typesupport_introspection_cpp/kiro_custom_interfaces/srv/detail/calculate_triangle_area__rosidl_typesupport_introspection_cpp.hpp"
+  "rosidl_typesupport_introspection_cpp/kiro_custom_interfaces/srv/detail/calculate_triangle_area__type_support.cpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/kiro_custom_interfaces__rosidl_typesupport_introspection_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

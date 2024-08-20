@@ -1,0 +1,17 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/kiro_custom_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/kiro_custom_interfaces/msg/detail/dds_fastrtps/sensor_state__type_support.cpp.o"
+  "CMakeFiles/kiro_custom_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/kiro_custom_interfaces/msg/detail/dds_fastrtps/sensor_state__type_support.cpp.o.d"
+  "CMakeFiles/kiro_custom_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/kiro_custom_interfaces/srv/detail/dds_fastrtps/calculate_triangle_area__type_support.cpp.o"
+  "CMakeFiles/kiro_custom_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/kiro_custom_interfaces/srv/detail/dds_fastrtps/calculate_triangle_area__type_support.cpp.o.d"
+  "libkiro_custom_interfaces__rosidl_typesupport_fastrtps_cpp.pdb"
+  "libkiro_custom_interfaces__rosidl_typesupport_fastrtps_cpp.so"
+  "rosidl_typesupport_fastrtps_cpp/kiro_custom_interfaces/msg/detail/dds_fastrtps/sensor_state__type_support.cpp"
+  "rosidl_typesupport_fastrtps_cpp/kiro_custom_interfaces/msg/detail/sensor_state__rosidl_typesupport_fastrtps_cpp.hpp"
+  "rosidl_typesupport_fastrtps_cpp/kiro_custom_interfaces/srv/detail/calculate_triangle_area__rosidl_typesupport_fastrtps_cpp.hpp"
+  "rosidl_typesupport_fastrtps_cpp/kiro_custom_interfaces/srv/detail/dds_fastrtps/calculate_triangle_area__type_support.cpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/kiro_custom_interfaces__rosidl_typesupport_fastrtps_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

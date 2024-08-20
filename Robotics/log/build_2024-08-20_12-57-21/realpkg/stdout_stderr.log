@@ -1,0 +1,37 @@
+running develop
+/usr/lib/python3/dist-packages/setuptools/command/develop.py:40: EasyInstallDeprecationWarning: easy_install command is deprecated.
+!!
+
+        ********************************************************************************
+        Please avoid running ``setup.py`` and ``easy_install``.
+        Instead, use pypa/build, pypa/installer or other
+        standards-based tools.
+
+        See https://github.com/pypa/setuptools/issues/917 for details.
+        ********************************************************************************
+
+!!
+  easy_install.initialize_options(self)
+/usr/lib/python3/dist-packages/setuptools/command/easy_install.py:363: UserWarning: Unbuilt egg for pytest-repeat [unknown version] (/usr/lib/python3/dist-packages)
+  self.local_index = Environment(self.shadow_path + sys.path)
+running egg_info
+writing realpkg.egg-info/PKG-INFO
+writing dependency_links to realpkg.egg-info/dependency_links.txt
+writing entry points to realpkg.egg-info/entry_points.txt
+writing requirements to realpkg.egg-info/requires.txt
+writing top-level names to realpkg.egg-info/top_level.txt
+reading manifest file 'realpkg.egg-info/SOURCES.txt'
+writing manifest file 'realpkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/kiro/Robotics/install/realpkg/lib/python3.12/site-packages/realpkg.egg-link (link to .)
+Installing Node_1 script to /home/kiro/Robotics/install/realpkg/lib/realpkg
+Installing Node_Client script to /home/kiro/Robotics/install/realpkg/lib/realpkg
+Installing Node_Publisher_Sensor script to /home/kiro/Robotics/install/realpkg/lib/realpkg
+Installing Node_Server script to /home/kiro/Robotics/install/realpkg/lib/realpkg
+Installing Node_publisher script to /home/kiro/Robotics/install/realpkg/lib/realpkg
+Installing Node_subscriber script to /home/kiro/Robotics/install/realpkg/lib/realpkg
+
+Installed /home/kiro/Robotics/build/realpkg
+running symlink_data
+symbolically linking /home/kiro/Robotics/build/realpkg/resource/realpkg -> /home/kiro/Robotics/install/realpkg/share/ament_index/resource_index/packages
+symbolically linking /home/kiro/Robotics/build/realpkg/package.xml -> /home/kiro/Robotics/install/realpkg/share/realpkg

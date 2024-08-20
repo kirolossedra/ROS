@@ -1,0 +1,6 @@
+[0.000000] (-) TimerEvent: {}
+[0.001231] (-) JobUnselected: {'identifier': 'first_pkg'}
+[0.001277] (-) JobUnselected: {'identifier': 'kiro_custom_interfaces'}
+[0.001316] (-) JobUnselected: {'identifier': 'kiro_custom_interfaces'}
+[0.001340] (-) JobUnselected: {'identifier': 'realpkg'}
+[0.001374] (-) EventReactorShutdown: {}

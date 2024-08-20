@@ -9,6 +9,15 @@
 
   <depend>rclpy</depend>
   <depend>example_interfaces</depend>
+  <depend>custom_interfaces</depend>
+  
+
+  <!-- 
+
+        
+        <depend>kiro_custom_interfaces</depend>
+
+   -->
 
 
   <test_depend>ament_copyright</test_depend>

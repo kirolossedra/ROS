@@ -1,12 +1,16 @@
 /home/kiro/Robotics/install/realpkg/lib/python3.12/site-packages/realpkg/testnode.py
+/home/kiro/Robotics/install/realpkg/lib/python3.12/site-packages/realpkg/TriangleService.py
 /home/kiro/Robotics/install/realpkg/lib/python3.12/site-packages/realpkg/__init__.py
 /home/kiro/Robotics/install/realpkg/lib/python3.12/site-packages/realpkg/testservice.py
+/home/kiro/Robotics/install/realpkg/lib/python3.12/site-packages/realpkg/SensorPublisher.py
 /home/kiro/Robotics/install/realpkg/lib/python3.12/site-packages/realpkg/testclient.py
 /home/kiro/Robotics/install/realpkg/lib/python3.12/site-packages/realpkg/testsubscriber.py
 /home/kiro/Robotics/install/realpkg/lib/python3.12/site-packages/realpkg/testpublisher.py
 /home/kiro/Robotics/install/realpkg/lib/python3.12/site-packages/realpkg/__pycache__/testnode.cpython-312.pyc
+/home/kiro/Robotics/install/realpkg/lib/python3.12/site-packages/realpkg/__pycache__/TriangleService.cpython-312.pyc
 /home/kiro/Robotics/install/realpkg/lib/python3.12/site-packages/realpkg/__pycache__/__init__.cpython-312.pyc
 /home/kiro/Robotics/install/realpkg/lib/python3.12/site-packages/realpkg/__pycache__/testservice.cpython-312.pyc
+/home/kiro/Robotics/install/realpkg/lib/python3.12/site-packages/realpkg/__pycache__/SensorPublisher.cpython-312.pyc
 /home/kiro/Robotics/install/realpkg/lib/python3.12/site-packages/realpkg/__pycache__/testclient.cpython-312.pyc
 /home/kiro/Robotics/install/realpkg/lib/python3.12/site-packages/realpkg/__pycache__/testsubscriber.cpython-312.pyc
 /home/kiro/Robotics/install/realpkg/lib/python3.12/site-packages/realpkg/__pycache__/testpublisher.cpython-312.pyc
@@ -20,7 +24,9 @@
 /home/kiro/Robotics/install/realpkg/lib/python3.12/site-packages/realpkg-0.0.0-py3.12.egg-info/requires.txt
 /home/kiro/Robotics/install/realpkg/lib/python3.12/site-packages/realpkg-0.0.0-py3.12.egg-info/dependency_links.txt
 /home/kiro/Robotics/install/realpkg/lib/realpkg/Node_1
+/home/kiro/Robotics/install/realpkg/lib/realpkg/Node_Area_Server
 /home/kiro/Robotics/install/realpkg/lib/realpkg/Node_Client
+/home/kiro/Robotics/install/realpkg/lib/realpkg/Node_Publisher_Sensor
 /home/kiro/Robotics/install/realpkg/lib/realpkg/Node_Server
 /home/kiro/Robotics/install/realpkg/lib/realpkg/Node_publisher
 /home/kiro/Robotics/install/realpkg/lib/realpkg/Node_subscriber

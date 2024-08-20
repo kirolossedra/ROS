@@ -1,0 +1,32 @@
+[5.852s] Invoking command in '/home/kiro/Robotics/src/first_pkg': PYTHONPATH=/home/kiro/Robotics/build/first_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kiro/Robotics/install/first_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/first_pkg build --build-base /home/kiro/Robotics/build/first_pkg/build install --record /home/kiro/Robotics/build/first_pkg/install.log --single-version-externally-managed install_data
+[7.913s] running egg_info
+[7.915s] creating ../../build/first_pkg/first_pkg.egg-info
+[8.022s] writing ../../build/first_pkg/first_pkg.egg-info/PKG-INFO
+[8.027s] writing dependency_links to ../../build/first_pkg/first_pkg.egg-info/dependency_links.txt
+[8.027s] writing requirements to ../../build/first_pkg/first_pkg.egg-info/requires.txt
+[8.028s] writing top-level names to ../../build/first_pkg/first_pkg.egg-info/top_level.txt
+[8.028s] writing manifest file '../../build/first_pkg/first_pkg.egg-info/SOURCES.txt'
+[8.226s] reading manifest file '../../build/first_pkg/first_pkg.egg-info/SOURCES.txt'
+[8.227s] writing manifest file '../../build/first_pkg/first_pkg.egg-info/SOURCES.txt'
+[8.228s] running build
+[8.228s] running build_py
+[8.229s] creating /home/kiro/Robotics/build/first_pkg/build
+[8.229s] creating /home/kiro/Robotics/build/first_pkg/build/lib
+[8.229s] creating /home/kiro/Robotics/build/first_pkg/build/lib/first_pkg
+[8.230s] copying first_pkg/__init__.py -> /home/kiro/Robotics/build/first_pkg/build/lib/first_pkg
+[8.230s] running install
+[8.252s] running install_lib
+[8.325s] creating /home/kiro/Robotics/install/first_pkg/lib/python3.12/site-packages/first_pkg
+[8.325s] copying /home/kiro/Robotics/build/first_pkg/build/lib/first_pkg/__init__.py -> /home/kiro/Robotics/install/first_pkg/lib/python3.12/site-packages/first_pkg
+[8.329s] byte-compiling /home/kiro/Robotics/install/first_pkg/lib/python3.12/site-packages/first_pkg/__init__.py to __init__.cpython-312.pyc
+[8.330s] running install_data
+[8.330s] creating /home/kiro/Robotics/install/first_pkg/share/ament_index
+[8.330s] creating /home/kiro/Robotics/install/first_pkg/share/ament_index/resource_index
+[8.331s] creating /home/kiro/Robotics/install/first_pkg/share/ament_index/resource_index/packages
+[8.332s] copying resource/first_pkg -> /home/kiro/Robotics/install/first_pkg/share/ament_index/resource_index/packages
+[8.333s] copying package.xml -> /home/kiro/Robotics/install/first_pkg/share/first_pkg
+[8.334s] running install_egg_info
+[8.412s] Copying ../../build/first_pkg/first_pkg.egg-info to /home/kiro/Robotics/install/first_pkg/lib/python3.12/site-packages/first_pkg-0.0.0-py3.12.egg-info
+[8.417s] running install_scripts
+[9.217s] writing list of installed files to '/home/kiro/Robotics/build/first_pkg/install.log'
+[9.298s] Invoked command in '/home/kiro/Robotics/src/first_pkg' returned '0': PYTHONPATH=/home/kiro/Robotics/build/first_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kiro/Robotics/install/first_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/first_pkg build --build-base /home/kiro/Robotics/build/first_pkg/build install --record /home/kiro/Robotics/build/first_pkg/install.log --single-version-externally-managed install_data

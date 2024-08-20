@@ -8,6 +8,8 @@ setup.py
 ../../build/realpkg/realpkg.egg-info/requires.txt
 ../../build/realpkg/realpkg.egg-info/top_level.txt
 ../../build/realpkg/realpkg.egg-info/zip-safe
+realpkg/SensorPublisher.py
+realpkg/TriangleService.py
 realpkg/__init__.py
 realpkg/testclient.py
 realpkg/testnode.py

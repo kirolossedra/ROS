@@ -25,6 +25,8 @@ setup(
             ,"Node_subscriber= realpkg.testsubscriber:main"
             ,"Node_Server = realpkg.testservice:main"
             ,"Node_Client = realpkg.testclient:main"
+            ,"Node_Publisher_Sensor = realpkg.SensorPublisher:main"
+            ,"Node_Area_Server = realpkg.TriangleService:main"
             
             
         ],

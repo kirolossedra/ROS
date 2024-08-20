@@ -1,0 +1,4 @@
+source;share/kiro_custom_interfaces/local_setup.bash
+source;share/kiro_custom_interfaces/local_setup.dsv
+source;share/kiro_custom_interfaces/local_setup.sh
+source;share/kiro_custom_interfaces/local_setup.zsh
