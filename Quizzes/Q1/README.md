@@ -10,6 +10,10 @@
 
 ![Screenshot 2024-08-21 101715](https://github.com/user-attachments/assets/b78d6d5f-46f7-4ea9-8eff-fc66865343ee)
 
+```
+ros2 run turtlesim turtlesim_node --ros-args __node:=Nini
+```
+
 
 ## 2- Start a teleop node
 ```
