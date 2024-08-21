@@ -12,6 +12,9 @@
 
 
 ## 2- Start a teleop node
+```
+ros2 run turtlesim turtle_teleop_key
+```
 
 ## 3- from any created node create an instance with a normal modified name 
 
