@@ -1,3 +1,0 @@
-string sensor_name
-bool new_readings_ready
-int64 reading_id

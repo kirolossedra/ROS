@@ -1,7 +1,0 @@
-{
-  "package_name": "kiro_custom_interfaces",
-  "non_idl_tuples": [
-    "/home/kiro/Robotics/src/kiro_custom_interfaces:msg/SensorState.msg",
-    "/home/kiro/Robotics/src/kiro_custom_interfaces:srv/CalculateTriangleArea.srv"
-  ]
-}

@@ -1,0 +1,35 @@
+-- The C compiler identification is GNU 13.2.0
+-- The CXX compiler identification is GNU 13.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.2 (/root/ros2_jazzy/install/ament_cmake/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Configuring done (3.7s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/kiro/Robotics/build/last
+-- Install configuration: ""
+-- Installing: /home/kiro/Robotics/install/last/share/last/launch
+-- Installing: /home/kiro/Robotics/install/last/share/last/launch/launcher.py
+-- Installing: /home/kiro/Robotics/install/last/share/ament_index/resource_index/package_run_dependencies/last
+-- Installing: /home/kiro/Robotics/install/last/share/ament_index/resource_index/parent_prefix_path/last
+-- Installing: /home/kiro/Robotics/install/last/share/last/environment/ament_prefix_path.sh
+-- Installing: /home/kiro/Robotics/install/last/share/last/environment/ament_prefix_path.dsv
+-- Installing: /home/kiro/Robotics/install/last/share/last/environment/path.sh
+-- Installing: /home/kiro/Robotics/install/last/share/last/environment/path.dsv
+-- Installing: /home/kiro/Robotics/install/last/share/last/local_setup.bash
+-- Installing: /home/kiro/Robotics/install/last/share/last/local_setup.sh
+-- Installing: /home/kiro/Robotics/install/last/share/last/local_setup.zsh
+-- Installing: /home/kiro/Robotics/install/last/share/last/local_setup.dsv
+-- Installing: /home/kiro/Robotics/install/last/share/last/package.dsv
+-- Installing: /home/kiro/Robotics/install/last/share/ament_index/resource_index/packages/last
+-- Installing: /home/kiro/Robotics/install/last/share/last/cmake/lastConfig.cmake
+-- Installing: /home/kiro/Robotics/install/last/share/last/cmake/lastConfig-version.cmake
+-- Installing: /home/kiro/Robotics/install/last/share/last/package.xml

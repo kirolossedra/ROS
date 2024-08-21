@@ -1,0 +1,14 @@
+/home/kiro/Robotics/install/last/share/last/launch/launcher.py
+/home/kiro/Robotics/install/last/share/ament_index/resource_index/package_run_dependencies/last
+/home/kiro/Robotics/install/last/share/ament_index/resource_index/parent_prefix_path/last
+/home/kiro/Robotics/install/last/share/last/environment/ament_prefix_path.dsv
+/home/kiro/Robotics/install/last/share/last/environment/path.dsv
+/home/kiro/Robotics/install/last/share/last/local_setup.bash
+/home/kiro/Robotics/install/last/share/last/local_setup.sh
+/home/kiro/Robotics/install/last/share/last/local_setup.zsh
+/home/kiro/Robotics/install/last/share/last/local_setup.dsv
+/home/kiro/Robotics/install/last/share/last/package.dsv
+/home/kiro/Robotics/install/last/share/ament_index/resource_index/packages/last
+/home/kiro/Robotics/install/last/share/last/cmake/lastConfig.cmake
+/home/kiro/Robotics/install/last/share/last/cmake/lastConfig-version.cmake
+/home/kiro/Robotics/install/last/share/last/package.xml
